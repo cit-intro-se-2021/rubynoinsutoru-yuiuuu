@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "run ruby",
+      "setup": "",
+      "run": "ruby hello.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
